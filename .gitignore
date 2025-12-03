@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 cat > .gitignore <<'EOF'
+=======
+>>>>>>> 4764a063dd3d3ca70aae02606217062ad8c4ec5d
 # Encrypted seed (sensitive)
 encrypted_seed.txt
 
@@ -12,4 +15,7 @@ __pycache__/
 # IDE files
 .vscode/
 .idea/
+<<<<<<< HEAD
 EOF
+=======
+>>>>>>> 4764a063dd3d3ca70aae02606217062ad8c4ec5d
